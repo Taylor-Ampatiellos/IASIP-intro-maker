@@ -15,8 +15,9 @@ Syntax:
 	The program takes 1 argument, then prompts the user for their desired title.
 	Example: python intro.py [my_clip]
 
-Outside Packages Used:
+Outside Packages/Resources Used:
 	MoviePy: https://zulko.github.io/moviepy/#
+	Textile font
 
 Known Bugs (to be fixed as the program is updated):
 	- The right edge of the text is cut off.
